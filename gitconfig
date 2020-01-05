@@ -48,4 +48,6 @@
   mergeoptions = --no-edit
 [user]
 	email = bojuaugustin@gmail.com
-	name = Boju Augustin
+	name = augustinboju
+[credential]
+	helper = store
