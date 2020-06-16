@@ -33,3 +33,4 @@ eval "$(rbenv init -)"
 
 export PATH="/Applications/Postgres.app/Contents/Versions/9.6/bin/:$PATH"
 export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl'"
+export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl'"
